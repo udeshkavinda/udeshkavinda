@@ -24,6 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
 ## 📈 GitHub Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udeshkavinda&theme=react-dark)
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=udeshkavinda&theme=radical)
 
 
 
