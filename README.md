@@ -1,9 +1,11 @@
+![Kavinda Udesh GitHub Banner](https://raw.githubusercontent.com/udeshkavinda/udeshkavinda/8a3e1a82b938223538a080ad530cc069e57f77d2/gitbanner.JPG)
+
 # 👋 Hi, I'm Kavinda Udesh
 
-🎓 I'm an undergraduate at SLIIT, specializing in **Artificial Intelligence**  
-💡 Passionate about AI software, automation tools, and building smart systems  
-📚 Currently learning: Python, Machine Learning, Git, and TensorFlow  
-⚡ Goals: Build real-world AI projects and reach Rs. 300k+ income through tech  
+🎓 I'm an undergraduate at SLIIT, specializing in **Artificial Intelligence**  
+💡 Passionate about AI software, automation tools, and building smart systems  
+📚 Currently learning: Python, Machine Learning, Git, and TensorFlow  
+⚡ Goals: Build real-world AI projects and reach Rs. 300k+ income through tech  
 📫 Contact: kavindaudesh1234@gmail.com
 
 ---
